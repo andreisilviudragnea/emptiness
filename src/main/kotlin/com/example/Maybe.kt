@@ -1,7 +1,7 @@
 package com.example
 
 import io.reactivex.rxjava3.core.Maybe
-import java.util.*
+import java.util.Optional
 
 private fun maybeStep1(input: String): Maybe<String> {
     return Maybe.just(input)
