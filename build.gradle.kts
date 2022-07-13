@@ -14,7 +14,7 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("io.projectreactor:reactor-core:3.4.21")
     implementation("io.reactivex.rxjava3:rxjava:3.1.5")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
 }
 
 tasks {
