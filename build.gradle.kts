@@ -13,6 +13,6 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("io.projectreactor:reactor-core:3.6.9")
-    implementation("io.reactivex.rxjava3:rxjava:3.1.8")
+    implementation("io.reactivex.rxjava3:rxjava:3.1.9")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1")
 }
